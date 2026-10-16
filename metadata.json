@@ -1,0 +1,8 @@
+{
+  "name": "NexVora Publish",
+  "description": "NexVora Publish is an independent modern publishing platform for creators, publishers, and journalists to build content, newsletters, and memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
